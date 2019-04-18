@@ -64,11 +64,11 @@ A tile has an ID, an integer, which corresponds to a texture in some tile set.
 
 ### Subregion Space
 
-![Subregion Diagram]({filename}/images/BasicTerrainGeneration/subregion.png)
+![Subregion Diagram](./screenshots/subregion.png)
 
 ### Region Space
 
-![Region Diagram]({filename}/images/BasicTerrainGeneration/region.png)
+![Region Diagram](./screenshots/region.png)
 
 ### Loading and Saving Formats
 
@@ -86,9 +86,9 @@ A tile has an ID, an integer, which corresponds to a texture in some tile set.
 
 ### Implementation
 
-![Terrain 1]({filename}/images/BasicTerrainGeneration/terrain_1.png){width=100%}
+![Terrain 1](./screenshots/terrain_1.png){width=100%}
 
-![Terrain 2]({filename}/images/BasicTerrainGeneration/terrain_2.png){width=100%}
+![Terrain 2](./screenshots/terrain_2.png){width=100%}
 
 ---
 ## Fractal Noise
@@ -97,11 +97,11 @@ A tile has an ID, an integer, which corresponds to a texture in some tile set.
 
 ### Implementation
 
-![Terrain 3]({filename}/images/BasicTerrainGeneration/terrain_3.png){width=100%}
+![Terrain 3](./screenshots/terrain_3.png){width=100%}
 
-![Terrain 4]({filename}/images/BasicTerrainGeneration/terrain_4.png){width=100%}
+![Terrain 4](./screenshots/terrain_4.png){width=100%}
 
-![Terrain 5]({filename}/images/BasicTerrainGeneration/terrain_5.png){width=100%}
+![Terrain 5](./screenshots/terrain_5.png){width=100%}
 
 ---
 ## Conclusion
