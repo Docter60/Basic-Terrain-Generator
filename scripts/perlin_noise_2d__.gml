@@ -13,9 +13,9 @@ Calculates perlin noise at (x, y) given a seed and scale.
 var seed = argument0;
 var xx = argument1;
 var yy = argument2;
-var scale = int64(argument3 - 1);
+var scale = argument3 - 1;
 
-var inv_scale = 1 / scale;
+var inv_scale = 1 / argument3;
 
 var node_x = floor(xx * inv_scale);
 var node_y = floor(yy * inv_scale);
